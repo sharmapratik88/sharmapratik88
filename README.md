@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **LLMs and Generative AI!**
 - 👯 I’m looking to collaborate on **anything from Machine Learning, Data Science, NLP, Generative AI space!**
 - 👨‍💻 All of my projects are available at [my github profile](https://github.com/sharmapratik88).
-- 📝 I regularly write articles on [my blog](pratikdsharma.com).
+- 📝 I write articles on [my blog](pratikdsharma.com).
 - 💬 Ask me about **Python, SQL, Qlik Sense!**
 
 ### ✨ About Me
