@@ -14,6 +14,7 @@
 
 In the overview below you will find the featured [posts](https://pratikdsharma.com/blog/) of my [blog](https://pratikdsharma.com/). automatically updated by GitHub Actions:
 
+
 <h3 align="left">🔗 Connect with me</h3>
 
 - [LinkedIn](https://linkedin.com/in/sharmapratikd)
