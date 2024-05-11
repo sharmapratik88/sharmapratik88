@@ -12,6 +12,7 @@
 - I am a Data Science enthusiast with 11+ years of experience in driving innovation and strategic growth through advanced analytics, machine learning, and data visualization.
 
 <h3 align="left">✍️ Blog Posts</h3>
+
 In the overview below you will find the featured [posts](https://pratikdsharma.com/blog/) of my [blog](https://pratikdsharma.com/). automatically updated by GitHub Actions:
 
 <h3 align="left">🔗 Connect with me</h3>
