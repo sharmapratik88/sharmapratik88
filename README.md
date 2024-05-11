@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Pratik</h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmapratik88&label=Profile%20views&color=0e75b6&style=flat" alt="sharmapratik88" /> </p>
+<h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Pratik</h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmapratik88&label=Profile%20views&color=0e75b6&style=flat" alt="sharmapratik88" /> </p>
 
 - 🔭 I’m currently working on **Generative AI projects!**
 - 🌱 I’m currently learning **LLMs and Generative AI!**
