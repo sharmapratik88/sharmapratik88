@@ -16,7 +16,7 @@ I am a Data Science enthusiast with 11+ years of experience in driving innovatio
 
 ### ✍️ Blog Posts
 ---
-In the overview below you will find the featured [posts](https://pratikdsharma.com/blog/) of my [blog](https://pratikdsharma.com/). automatically updated by [GitHub Actions](https://github.com/sharmapratik88/sharmapratik88/actions/workflows/actions.yml):
+In the overview below you will find the [posts](https://pratikdsharma.com/blog/) of my [blog](https://pratikdsharma.com/), automatically updated by [GitHub Actions](https://github.com/sharmapratik88/sharmapratik88/actions/workflows/actions.yml).
 
 <!-- BLOG_START -->
 - [Large Language Models: Transforming Industries and Reshaping AI Applications](https://pratikdsharma.com/what-are-large-language-models/) (2024-01-21T19:27:28.000Z)
