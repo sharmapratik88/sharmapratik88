@@ -18,8 +18,9 @@ I am a Data Science enthusiast with 11+ years of experience in driving innovatio
 ---
 In the overview below you will find the featured [posts](https://pratikdsharma.com/blog/) of my [blog](https://pratikdsharma.com/). automatically updated by GitHub Actions:
 
+<!-- BLOG_START -->
 
-
+<!-- BLOG_END -->
 
 ### 📶 Profile Stats
 ---
