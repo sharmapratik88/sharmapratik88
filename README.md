@@ -1,9 +1,4 @@
-<h1 align="left">Hi 👋, I'm Pratik</h1>
-<h3 align="left">Passionate Machine Learning and Generative AI Enthusiast</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmapratik88&label=Profile%20views&color=0e75b6&style=flat" alt="sharmapratik88" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharmapratik88" alt="sharmapratik88" /></a> </p>
+<h1 align="left">Hi 👋, I'm Pratik</h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmapratik88&label=Profile%20views&color=0e75b6&style=flat" alt="sharmapratik88" /> </p>
 
 - 🔭 I’m currently working on **Generative AI projects!**
 - 🌱 I’m currently learning **LLMs and Generative AI!**
@@ -13,11 +8,21 @@
 - 📝 I regularly write articles on [my blog](pratikdsharma.com).
 - 💬 Ask me about **python, SQL, Qlik Sense!**
 
-<h3 align="left">🔗  Connect with me</h3>
+<h3 align="left">✨ About Me</h3>
+- I am a Data Science enthusiast with 11+ years of experience in driving innovation and strategic growth through advanced analytics, machine learning, and data visualization.
+
+<h3 align="left">✍️ Blog Posts</h3>
+In the overview below you will find the featured [posts](https://pratikdsharma.com/blog/) of my [blog](https://pratikdsharma.com/). automatically updated by GitHub Actions:
+
+<h3 align="left">🔗 Connect with me</h3>
 
 - [LinkedIn](https://linkedin.com/in/sharmapratikd)
 
-<h3 align="left">Languages and Tools</h3>
+<p></p>
+<h3 align="left">📶 Profile Stats</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharmapratik88" alt="sharmapratik88" /></a> </p>
+
+<h3 align="left">👨🏻‍💻 Languages and Tools</h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
@@ -41,11 +46,3 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharmapratik88&show_icons=true&locale=en&layout=compact" alt="sharmapratik88" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharmapratik88&show_icons=true&locale=en" alt="sharmapratik88" /></p>
-
-<h3 align="left">Blog Posts</h3>
-In the overview below you will find the featured [posts](https://pratikdsharma.com/blog/) of my [blog](https://pratikdsharma.com/). automatically updated by GitHub Actions:
-
-
