@@ -13,11 +13,11 @@
 - 📝 I regularly write articles on [my blog](pratikdsharma.com).
 - 💬 Ask me about **python, SQL, Qlik Sense!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗  Connect with me</h3>
 
 - [LinkedIn](https://linkedin.com/in/sharmapratikd)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
@@ -45,7 +45,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharmapratik88&show_icons=true&locale=en" alt="sharmapratik88" /></p>
 
-<h3 align="left">Blog Posts:</h3>
+<h3 align="left">Blog Posts</h3>
 In the overview below you will find the featured [posts](https://pratikdsharma.com/blog/) of my [blog](https://pratikdsharma.com/). automatically updated by GitHub Actions:
 
 
