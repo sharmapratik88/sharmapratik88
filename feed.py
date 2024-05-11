@@ -27,7 +27,7 @@ def modify_readme(readme, text, identifier=''):
 def fetch_posts_from_sitemap(feed):
     # Fetch and parse the sitemap
     response = requests.get(feed)
-    soup = BeautifulSoup(response.content, 'xml')
+    soup = BeautifulSoup(response.content, 'html.parser')
 
     # Extract URLs and last modified dates
     posts = []
