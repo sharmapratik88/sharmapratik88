@@ -42,7 +42,7 @@ def fetch_posts_from_sitemap(feed):
         title = h1_tag.text.strip() if h1_tag else 'No H1 tag found'
 
         # Append formatted string to posts list
-        posts.append(f"- [{title}]({loc}) ({lastmod})")
+        posts.append(f"- [{title}]({loc})") # ({lastmod})
 
     # Return formatted string of posts
     return '\n' + '\n'.join(posts) + '\n'
