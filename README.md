@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on **anything from Machine Learning, Data Science, NLP, Generative AI space!**
 - 👨‍💻 All of my projects are available at [my github profile](https://github.com/sharmapratik88).
 - 📝 I regularly write articles on [my blog](pratikdsharma.com).
-- 💬 Ask me about **python, SQL, Qlik Sense!**
+- 💬 Ask me about **Python, SQL, Qlik Sense!**
 
 <h3 align="left">✨ About Me</h3>
 - I am a Data Science enthusiast with 11+ years of experience in driving innovation and strategic growth through advanced analytics, machine learning, and data visualization.
