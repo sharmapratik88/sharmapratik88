@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on **Generative AI projects!**
 - 🌱 I’m currently learning **LLMs and Generative AI!**
 - 👯 I’m looking to collaborate on **anything from Machine Learning, Data Science, NLP, Generative AI space!**
-- 🤝 I’m looking for help with **anything you can suggest!**
 - 👨‍💻 All of my projects are available at [my github profile](https://github.com/sharmapratik88).
 - 📝 I regularly write articles on [my blog](pratikdsharma.com).
 - 💬 Ask me about **python, SQL, Qlik Sense!**
