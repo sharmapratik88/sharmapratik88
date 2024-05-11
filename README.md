@@ -21,7 +21,10 @@ In the overview below you will find the featured [posts](https://pratikdsharma.c
 
 <p></p>
 <h3 align="left">📶 Profile Stats</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharmapratik88" alt="sharmapratik88" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharmapratik88" alt="sharmapratik88" /></a> </p> -->
+
+![Pratik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharmapratik88&show_icons=true&theme=transparent)
+
 
 <h3 align="left">👨🏻‍💻 Languages and Tools</h3>
 <p align="left">
