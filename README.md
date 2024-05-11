@@ -19,7 +19,16 @@ I am a Data Science enthusiast with 11+ years of experience in driving innovatio
 In the overview below you will find the featured [posts](https://pratikdsharma.com/blog/) of my [blog](https://pratikdsharma.com/). automatically updated by GitHub Actions:
 
 <!-- BLOG_START -->
-
+- [Large Language Models: Transforming Industries and Reshaping AI Applications](https://pratikdsharma.com/what-are-large-language-models/) (2024-01-21T19:27:28.000Z)
+- [Decoding ChatGPT: The Ultimate Guide to LLM Mastery](https://pratikdsharma.com/chatgpt-prompt-engineering/) (2024-01-15T18:55:22.000Z)
+- [Data Analytics Roadmap, Interview Questions, and Tips](https://pratikdsharma.com/data-analytics-roadmap-interview-questions/) (2024-01-15T12:19:54.000Z)
+- [LLMs in 2023: Advancements, Challenges, and The Future](https://pratikdsharma.com/llms-2023-and-future/) (2024-01-11T14:37:09.000Z)
+- [10 Best MLOps Tools in 2022](https://pratikdsharma.com/10-best-mlops-tools-in-2022/) (2024-01-03T15:07:53.000Z)
+- [8 Most Popular Deep Learning Frameworks](https://pratikdsharma.com/popular-deep-learning-frameworks/) (2024-01-03T15:07:17.000Z)
+- [The 11 Best Courses for Learning SQL](https://pratikdsharma.com/best-courses-for-learning-sql/) (2024-01-03T15:05:14.000Z)
+- [The 7 Best Books for Learning SQL](https://pratikdsharma.com/7-best-sql-learning-books/) (2024-01-03T15:03:36.000Z)
+- [11 Best Machine Learning Courses](https://pratikdsharma.com/best-machine-learning-courses/) (2024-01-03T15:01:29.000Z)
+- [Step-by-Step Guide: How to Access Twitter Data using Python](https://pratikdsharma.com/twitter-api-using-python/) (2024-01-03T15:00:44.000Z)
 <!-- BLOG_END -->
 
 ### 📶 Profile Stats
