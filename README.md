@@ -40,5 +40,6 @@ In the overview below you will find the [posts](https://pratikdsharma.com/blog/)
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharmapratik88" alt="sharmapratik88" /></a> </p> -->
 ![Pratik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharmapratik88&show_icons=true&theme=transparent)
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
+---
 ![](https://github-profile-trophy.vercel.app/?username=sharmapratik88&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
