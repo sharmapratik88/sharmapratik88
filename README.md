@@ -19,9 +19,10 @@ I am a Data Science enthusiast with 11+ years of experience in driving innovatio
 In the overview below you will find the [posts](https://pratikdsharma.com/blog/) of my [blog](https://pratikdsharma.com/), automatically updated by [GitHub Actions](https://github.com/sharmapratik88/sharmapratik88/actions/workflows/actions.yml).
 
 <!-- BLOG_START -->
+- [Mastering Machine Learning for Classification (Part 2/2)](https://pratikdsharma.com/machine-learning-classification-part-2/)
+- [Mastering Machine Learning for Classification (Part 1/2)](https://pratikdsharma.com/machine-learning-classification-part-1/)
 - [10 Best MLOps Tools in 2022](https://pratikdsharma.com/10-best-mlops-tools-in-2022/)
 - [Step-by-Step Guide: How to Access Twitter Data using Python](https://pratikdsharma.com/twitter-api-using-python/)
-- [Mastering Machine Learning for Classification (Part 1/2)](https://pratikdsharma.com/machine-learning-classification-part-1/)
 - [Large Language Models: Transforming Industries and Reshaping AI Applications](https://pratikdsharma.com/what-are-large-language-models/)
 - [Decoding ChatGPT: The Ultimate Guide to LLM Mastery](https://pratikdsharma.com/chatgpt-prompt-engineering/)
 - [Data Analytics Roadmap, Interview Questions, and Tips](https://pratikdsharma.com/data-analytics-roadmap-interview-questions/)
