@@ -9,7 +9,7 @@
 
 ### ✨ About Me
 ---
-I am a Data Science enthusiast with 11+ years of experience in driving innovation and strategic growth through advanced analytics, machine learning, and data visualization.
+I am a Data Science enthusiast with 13+ years of experience in driving innovation and strategic growth through advanced analytics, machine learning, and data visualization.
   
 #### 🔗 Connect with me: [LinkedIn](https://linkedin.com/in/sharmapratikd)
 
